@@ -1,0 +1,2 @@
+Esta realizado con IntelliJ IDEA usando maven y rest Assured.
+Ejecutar la clase Demo y el metodo testPostPet() donde se registrara datos de la mascota por POST, luego lo comprobara con un GET,seguido lo actualizará con un PUT y finalmente comprobará con un GET
